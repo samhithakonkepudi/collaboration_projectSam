@@ -7,7 +7,7 @@ public class Message
 	
 	public Message()
 	{
-		//dummy constructor
+		
 	}
 	
 	public Message(int id, String message) 
